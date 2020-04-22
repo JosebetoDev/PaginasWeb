@@ -1,0 +1,38 @@
+.title-profile{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+.navbar{
+    background-color: rgba(0, 0, 0, .7)!important;
+    color: rgba(255, 255, 255)!important;
+}
+a.nav-link.active{
+    color: white!important;
+    font-weight: 500;
+    border-bottom: 1.5px solid #BFFFF1;
+    opacity: none;
+    opacity: none!important;
+}
+.navbar-light .navbar-brand:hover {
+    color: #BFFFF1!important;
+    font-size: 18px;
+}
+.navbar-toggler{
+    color: white;
+    border: 1px solid white;
+}
+ul.navbar-nav.mr-auto.ml-auto.mt-2.mt-lg-0 {
+    text-align: center;
+}
+.navbar-light .navbar-nav>.nav-link{
+    color: white;
+}
+.nav-link{
+    color: white!important;
+}
+a.nav-link:hover{
+    color:#BFFFF1!important;
+    font-size: 18px;
+    border-bottom: 3px solid #BFFFF1;
+}
